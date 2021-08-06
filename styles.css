@@ -1,4 +1,11 @@
-h1 {
-  color: navy;
+.very important {
+  color: red;
 }
+
+.not important {
+  color: black;
+}
+
+
+
 
